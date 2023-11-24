@@ -6,11 +6,13 @@
 
 【技术原理】：深度学习，人脸检测模型 MTCNN，人脸识别模型 mobilenet.
 
-(此为内测版，如需要技术源代码或正式版请联系  [微信:ldxs2020])
+(此为内测版，如需要技术源代码或正式版请联系  [微信:mx2023333])
 
 
-apk下载链接：1，https://pan.baidu.com/s/1uD0_jLhiw08jlQwjgDsW9Q 提取码: ldxs
-            2，https://www.pgyer.com/hg6ftx
+apk下载地址：1，https://www.pgyer.com/NCEj6T  (直接安装)
+
+           2，https://wwpe.lanzoub.com/iheYU1fsvbwj密码:i7z7  （下载安装）
+           
 有任何关于此软件的技术或功能问题，欢迎交流！！！
 
 
