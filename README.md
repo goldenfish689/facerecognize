@@ -14,12 +14,7 @@ apk下载地址：1，https://www.pgyer.com/NCEj6T  (直接安装)
            2，https://wwpe.lanzoub.com/iheYU1fsvbwj密码:i7z7  （下载安装）
            
 有任何关于此软件的技术或功能问题，欢迎交流！！！
-![首页](https://github.com/goldenfish689/facerecognize/blob/76df8f16c8bf4029eddbd24328790c2db5f340cb/%E9%A6%96%E9%A1%B5.jpg)
-![打卡](https://github.com/goldenfish689/facerecognize/blob/76df8f16c8bf4029eddbd24328790c2db5f340cb/%E6%89%93%E5%8D%A1.jpg)
-![人员库管理](https://github.com/goldenfish689/facerecognize/blob/76df8f16c8bf4029eddbd24328790c2db5f340cb/%E4%BA%BA%E5%91%98%E5%BA%93%E7%AE%A1%E7%90%86.jpg)
-![今日已签到](https://github.com/goldenfish689/facerecognize/blob/76df8f16c8bf4029eddbd24328790c2db5f340cb/%E4%BB%8A%E6%97%A5%E5%B7%B2%E7%AD%BE%E5%88%B0.jpg)
-![历史数据](https://github.com/goldenfish689/facerecognize/blob/76df8f16c8bf4029eddbd24328790c2db5f340cb/%E5%8E%86%E5%8F%B2%E6%95%B0%E6%8D%AE-%E6%AC%A1%E6%95%B0.jpg)
-![导出数据](https://github.com/goldenfish689/facerecognize/blob/76df8f16c8bf4029eddbd24328790c2db5f340cb/%E5%AF%BC%E5%87%BAExcel.jpg)
+![预览](https://github.com/goldenfish689/facerecognize/blob/de5a0372ea2a6cdbfee6b64758551b6d497b0794/BD557D268D4AAFC13BE710A12A5A8D04.jpg)
 
 
 
